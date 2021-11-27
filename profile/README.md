@@ -8,4 +8,4 @@ Website: https://raspbian-addons.org
 
 Docs: https://docs.raspbian-addons.org
 
-Package List: https://pkglist.raspbian-addons.org
+Package List: https://docs.raspbian-addons.org/package-list/
