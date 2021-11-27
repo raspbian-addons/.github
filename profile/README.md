@@ -7,3 +7,5 @@ If you find the project helpful, please consider leaving a star on our [main rep
 Website: https://raspbian-addons.org
 
 Docs: https://docs.raspbian-addons.org
+
+Package List: https://pkglist.raspbian-addons.org
