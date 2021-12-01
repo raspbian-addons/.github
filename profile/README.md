@@ -1,4 +1,5 @@
-<style>
+<head>
+    <style>
     .mainRunner {
       border: 1px solid #000;
       position: relative;
@@ -17,7 +18,8 @@
       top: -12px;
       left: 12px;
     }
-</style>
+    </style>
+</head>
 
 <p align="right">
     <img class="img2" src="https://github.com/raspbian-addons/raspbian-addons/blob/master/icons/logo-condensed-test.png?raw=true" alt="logo">
