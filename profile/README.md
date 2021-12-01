@@ -6,9 +6,6 @@ Raspbian Addons is an APT repository for Raspberry Pies, containing open-source 
 
 If you find the project helpful, please consider leaving a star on our [main repository](https://github.com/raspbian-addons/raspbian-addons/)!
 
-<p align="right">
-    <img src="https://github.com/raspbian-addons/raspbian-addons/blob/master/icons/logo-condensed-test.png?raw=true" alt="logo">
-
 Website: https://raspbian-addons.org
 
 Docs: https://docs.raspbian-addons.org
