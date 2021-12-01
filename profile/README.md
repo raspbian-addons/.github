@@ -1,4 +1,4 @@
-<p align="center">
+<p align="right">
     <img src="https://github.com/raspbian-addons/raspbian-addons/blob/master/icons/logo-condensed-test.png?raw=true" alt="logo">
 
 ## Hi there 👋
