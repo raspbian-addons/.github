@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-<img src="https://github.com/raspbian-addons/raspbian-addons/blob/master/icons/logo-condensed-test.png?raw=true" align="right"/>
+<img src="https://cdn.jsdelivr.net/gh/raspbian-addons/raspbian-addons@master/icons/logo-condensed-test.png" align="right"/>
 
 Raspbian Addons is an APT repository for Raspberry Pies, containing open-source software not in the Pi Foundation's repositories.
 
